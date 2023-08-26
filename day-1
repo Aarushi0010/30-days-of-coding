@@ -1,7 +1,7 @@
 Question description : 
 Print Hello, World. on the first line, and the contents of  on the second line.
 
-  solution : 
+  solution (using c programming language): 
 
 #include <stdio.h>
 #include <string.h>
