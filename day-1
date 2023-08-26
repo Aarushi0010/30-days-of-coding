@@ -1,0 +1,23 @@
+Question description : 
+Print Hello, World. on the first line, and the contents of  on the second line.
+
+  solution : 
+
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+```
+int main() {
+   
+    char input_string[  ]; 
+    
+   
+    scanf("%[^\n]", input_string); 
+    
+   
+    printf("Hello, World.\n");
+    
+  printf(input_string);
+    return 0;
+}
