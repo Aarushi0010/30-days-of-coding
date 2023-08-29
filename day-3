@@ -1,7 +1,7 @@
 Topic : 
 Intro to conditional statements 
 
-Solutions :
+Solutions (C language):
 #include <assert.h>
 #include <ctype.h>
 #include <limits.h>
