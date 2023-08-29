@@ -1,7 +1,7 @@
 Topic : 
 Operators
 
-  Solution:
+  Solution (C language):
 
 #include <assert.h>
 #include <ctype.h>
